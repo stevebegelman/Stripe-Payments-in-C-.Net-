@@ -1,2 +1,2 @@
-# Stripe-Payments-in-C-.Net-
+# Stripe-Payments-in-C#/.Net Core
 Stripe Payments Implementation :  handle all payment events: tokenization, payment, cancellation, validation,...
